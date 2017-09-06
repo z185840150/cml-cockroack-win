@@ -1,0 +1,14 @@
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\bin\Debug\cml-cockroack-win.exe.config
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\bin\Debug\cml-cockroack-win.exe
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\bin\Debug\cml-cockroack-win.pdb
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\obj\Debug\cml-cockroack-win.csprojResolveAssemblyReference.cache
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\obj\Debug\MainWindow.g.cs
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\obj\Debug\App.g.cs
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\obj\Debug\cml-cockroack-win_MarkupCompile.cache
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\obj\Debug\cml-cockroack-win_MarkupCompile.lref
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\obj\Debug\MainWindow.baml
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\obj\Debug\cml-cockroack-win.g.resources
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\obj\Debug\cml_cockroack_win.Properties.Resources.resources
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\obj\Debug\cml-cockroack-win.csproj.GenerateResource.Cache
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\obj\Debug\cml-cockroack-win.exe
+C:\project\Git\cml-cockroack-win\cml-cockroack-win\obj\Debug\cml-cockroack-win.pdb
